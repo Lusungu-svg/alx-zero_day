@@ -1,2 +1,2 @@
 updated My first readme
-i want to update
+I want to update
